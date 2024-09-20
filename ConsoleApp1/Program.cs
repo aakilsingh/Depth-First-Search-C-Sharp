@@ -25,12 +25,6 @@ namespace ConsoleApp1
             }
         }
 
-        public static void depthFirstPrint(char[,] maze, char src)
-        {
-            maze.GetValue(src);
-        }
-
-
 
         public static void Main(string[] args)
         {
